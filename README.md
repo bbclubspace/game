@@ -1,6 +1,6 @@
-# Yapay zeka Alanında Kullanılabilecek Teknolojiler ve Uygulamalar
+# Oyun Alanında Kullanılabilecek Teknolojiler ve Uygulamalar
 
-Yapay zeka alanında; temel makine öğrenmesi algoritmaları (KNN, K-Means, SVM vb.), derin öğrenme (CNN, Mask R-CNN, RNN, LSTM vb.) ve pekiştirmeli öğrenme gibi konularda projeler geliştirilebilir. Genellikle Python programlama dili tercih edilirken, alternatif olarak C ve R dilleri de kullanılabilir. Ancak Python, popülerliği ve zengin kütüphane desteği nedeniyle öne çıkmaktadır.
+Oyun alanında; genel olarak oyun motoru seçiminde Unity ve Unreal engine tercih edilmekle birlikte birçok seçenek mevcuttur. Popüler olduğu ve güncel kaldığı için bu iki motor kullanılmaktadır. Unity C# dili ile işlem yaparken Unreal Engine hem C++ hem de blueprint ile işlem yapmaktadir.
 
 Yakında sizlerle birlikte geliştireceğimiz projeleri public olarak paylaşacağız.
 
